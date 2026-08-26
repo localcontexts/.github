@@ -1,2 +1,5 @@
 # Local Contexts
 The [Local Contexts Hub](https://localcontextshub.org/) enables the customization of Labels and the application of Notices directly to Indigenous data. The Hub works in tandem with already existing information/collections management systems and tools, generating Labels and Notices. Check out our [website](https://localcontexts.org/) for more information about Local Contexts and the Hub. For more information on the Hub API, check out our [API Guide](https://localcontexts.org/support/api-guide/).
+
+## Local Contexts Hub Roadmap (WIP)
+The Hub roadmap can be found [here](https://github.com/orgs/localcontexts/projects/2)
